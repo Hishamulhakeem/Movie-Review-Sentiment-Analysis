@@ -35,7 +35,7 @@ This project is a **sentiment analysis model** built using **TensorFlow** and **
 
 📦 Sentiment-Analysis
 
-├── text_Classificationipynb 
+├── text_Classification.ipynb 
 
 ├── README.md 
 
