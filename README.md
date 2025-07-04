@@ -33,3 +33,11 @@ This project is a **sentiment analysis model** built using **TensorFlow** and **
 
 ## 📁 Project Structure
 
+📦 Sentiment-Analysis
+├── istop1.ipynb # Jupyter Notebook with training code
+├── README.md # Project description and instructions
+├── sentiment_model.h5 # (Optional) Saved trained model
+└── requirements.txt # (Optional) Required packages
+
+
+
